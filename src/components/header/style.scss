@@ -27,11 +27,11 @@
     align-items: center;
     justify-content: space-between;
   }
-  .logo {
+  .heading {
     cursor: pointer;
-    img {
-      height: 50px;
-    }
+    font-size: xx-large;
+    font-weight: 900;
+    color: #da2f68;
   }
   .menuItems {
     list-style-type: none;
